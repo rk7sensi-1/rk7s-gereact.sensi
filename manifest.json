@@ -2,7 +2,7 @@
   "name": "Clash Royale",
   "short_name": "Clash Royale",
   "description": "Gerador de Sensibilidade RK7S",
-  "start_url": "./",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#0a0a0a",
   "theme_color": "#ff0000",
