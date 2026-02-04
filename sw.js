@@ -1,8 +1,9 @@
 const CACHE_NAME = 'clash-royale-v1';
 const urlsToCache = [
-  './rk7s-sensi.html',
-  './manifest.json',
-  './clash-royale.png'
+  '/index.html',
+  '/manifest.json',
+  '/clash-royale-192.png',
+  '/clash-royale-512.png'
 ];
 
 // Install Service Worker
